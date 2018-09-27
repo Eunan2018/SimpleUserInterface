@@ -19,5 +19,6 @@ public class DisplayMessageActivity extends AppCompatActivity {
         /*Capture the layout's TextView and get the string*/
         TextView textView = findViewById(R.id.textView);
         textView.setText(message);
+        // Test for pull
     }
 }
